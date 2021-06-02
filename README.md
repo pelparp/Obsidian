@@ -6,7 +6,9 @@ Obsidian is a tool that attempts to extract strings from the OSTAP malware famil
 
 ## About OSTAP
 https://malpedia.caad.fkie.fraunhofer.de/details/js.ostap
+
 https://www.intrinsec.com/deobfuscating-hunting-ostap/
+
 https://www.trendmicro.com/en_us/research/19/h/latest-trickbot-campaign-delivered-via-highly-obfuscated-js-file.html
 
 ## Usage
